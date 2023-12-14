@@ -31,7 +31,8 @@ Le Logging Proxy enregistre les informations importantes sur les appels à l'obj
 
 
 <div align="center">
-  <img src="https://github.com/2002marie03/PatternProxy/assets/95045123/6c4467c0-1395-42eb-99ff-6249d40c9e5b" alt="Image 2">
+  <img src="![image](https://github.com/2002marie03/PatternProxy/assets/95045123/90ffe3b9-41ed-4dcb-b35d-d96e9008749b)
+" alt="Image 2">
 </div>
 
 ### 4. Proxy de Proxy de Proxy
